@@ -1,2 +1,6 @@
 *.zip
 *.rar
+/temp/*
+*.xlsx
+World-Stock-Prices-Dataset.csv
+stocks_df.csv
